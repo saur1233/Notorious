@@ -1,2 +1,0 @@
-# Notorious
-Discord bot
